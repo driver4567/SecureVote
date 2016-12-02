@@ -16,5 +16,5 @@ Then go to localhost:6001 in a web browser.
 
 * AngularJS
 * NodeJS
-*[Eris Platform](https://monax.io/platform/)
+* [Eris Platform](https://monax.io/platform/)
 
